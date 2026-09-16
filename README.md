@@ -4,7 +4,7 @@
 
 4+ years shipping cloud data platforms (AWS, GCP, Snowflake), ETL/ELT pipelines (Airflow, Spark, dbt), and LLM/RAG applications, on top of 6+ years in strategy consulting. I like turning messy, real-world data problems into systems people can actually trust.
 
-📍 Berlin, Germany · 🌐 EN / FR / ES · 💬 [LinkedIn](https://www.linkedin.com/in/olivier-sansamat-79158554/)
+📍 Berlin, Germany · 💬 [LinkedIn](https://www.linkedin.com/in/olivier-sansamat-79158554/)
 
 ---
 
